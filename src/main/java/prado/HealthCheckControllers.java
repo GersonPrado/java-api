@@ -1,8 +1,6 @@
-package br;
-import br.utils.ResponseResult;
+package prado;
+import prado.com.utils.ResponseResult;
 import com.google.gson.Gson;
-import org.apache.catalina.connector.Response;
-import org.apache.logging.log4j.message.Message;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

@@ -1,4 +1,4 @@
-package br;
+package prado;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -1,6 +1,4 @@
-package br.utils;
-
-import org.apache.logging.log4j.message.Message;
+package prado.com.utils;
 
 public class ResponseResult {
     public ResponseResult(String message) {
